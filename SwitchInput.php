@@ -7,7 +7,7 @@
  * @version 1.3.0
  */
 
-namespace kartik\switchinput;
+namespace bobroid\switchinput;
 
 use Yii;
 use yii\helpers\Html;

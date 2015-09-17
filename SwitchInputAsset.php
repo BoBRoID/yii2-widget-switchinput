@@ -7,7 +7,7 @@
  * @version 1.3.0
  */
 
-namespace kartik\switchinput;
+namespace bobroid\switchinput;
 
 /**
  * Asset bundle for Switch Widget
